@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.2
+google_api_python_client==2.79.0
+google_auth_oauthlib==1.0.0
+gspread==5.7.2
+html2text==2020.1.16
+langchain==0.0.94
+protobuf==4.22.0
+selenium==4.8.2
